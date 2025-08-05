@@ -1,0 +1,26 @@
+# 💼 IT Cost Optimization & Forecasting Dashboard
+
+📊 **Tools Used**: Excel, SQL, Apptio, AWS
+
+## 🔍 Overview
+
+This project demonstrates a cost optimization solution using AWS and Apptio, with dashboards and forecasting models in Excel.
+
+- Integrated AWS usage data with Apptio
+- Forecasted CapEx/OpEx trends
+- Improved budget accuracy by 35%
+
+## 📁 Files Included
+
+- `budget_forecasting_template.xlsx`: Sample Excel dashboard
+- `aws_cost_mapping_sample.sql`: SQL script to extract cost data
+- `sample_input_data.csv`: Sample input data used in dashboard
+- `dashboard-sample.png`: Screenshot of the Excel dashboard
+
+## 📸 Dashboard Snapshot
+
+![Dashboard](dashboard-sample.png)
+
+## 📄 Note
+
+All data and files here are mock examples for illustration purposes only.
